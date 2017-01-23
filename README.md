@@ -1,5 +1,6 @@
 # Pay System DLE-Billing v.0.6
-Плагины платежных агрегаторов и систем для DLE-Billing v0.6 офф.сайт - <a href="http://dle-billing.ru/">DLE-Billing</a> репозитарий на - <a href="https://github.com/mr-Evgen/dle-billing-module">GitHub</a><br><br>
+Плагины платежных агрегаторов и систем для DLE-Billing<br>
+офф.сайт - <a href="http://dle-billing.ru/">DLE-Billing</a> репозитарий на - <a href="https://github.com/mr-Evgen/dle-billing-module">GitHub</a><br><br>
 Free-Kassa - http://free-kassa.ru/ - ver.1.0<br>
 OnPay - http://onpay.ru/ - ver.1.0<br>
 MyKassa - http://mykassa.org/ - ver.1.0<br><br>
