@@ -10,9 +10,7 @@ Z-payment - делал для себя сам и т.к. данный плаги�
 В модифицированный файл вошли платежные агрегаторы:<br><br>
 =============================================================================<br><br>
 Плагины присутствующие на сайте платежного агрегатора совместимые с DLE-Billing v0.6<br>
-PayAnyWay - https://payanyway.ru/<br>
-PAYEER - https://payeer.com/<br>
-МегаКасса - https://megakassa.ru/<br><br>
+<a href="https://payanyway.ru/info/w/ru/public/w/partnership/developers/instructions/dle.html">PayAnyWay</a>, <a href="https://payeer.com/ru/modules/">PAYEER</a>, <a href="https://megakassa.ru/cms/">МегаКасса</a><br><br>
 Плагины присутствующие на сайте платежного агрегатора но не совместимые с DLE-Billing v0.6<br>
 MyKassa - http://mykassa.org/<br>
 Free-Kassa - http://free-kassa.ru/<br>
