@@ -1,6 +1,7 @@
 # Pay System DLE-Billing v.0.6
 Плагины платежных агрегаторов и систем а так же модифицированный файл plugins.php для DLE-Billing<br>
 офф.сайт - <a href="http://dle-billing.ru/">DLE-Billing</a> репозитарий на - <a href="https://github.com/mr-Evgen/dle-billing-module">GitHub</a><br><br>
+В связи с тем что есть плагины но по не понятным мне причинам платежные агригаторы не занимаются их поддержкой в актуальном состоянии решил этот пробел исправить и выкладываю в паблик может комуто и понадобятся<br><br>
 Free-Kassa - http://free-kassa.ru/ - ver.1.0<br>
 OnPay - http://onpay.ru/ - ver.1.0<br>
 MyKassa - http://mykassa.org/ - ver.1.0<br><br>
