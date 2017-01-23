@@ -1,6 +1,7 @@
 # Pay System DLE-Billing v.0.6
 Плагины платежных агрегаторов и систем а так же модифицированный файл plugins.php для DLE-Billing<br>
 офф.сайт - <a href="http://dle-billing.ru/">DLE-Billing</a> репозитарий на - <a href="https://github.com/mr-Evgen/dle-billing-module">GitHub</a><br><br>
+
 В связи с тем что есть плагины но по не понятным мне причинам платежные агригаторы не занимаются их поддержкой в актуальном состоянии решил этот пробел исправить и выкладываю в паблик может комуто и понадобятся<br><br>
 Free-Kassa - http://free-kassa.ru/ - ver.1.0<br>
 OnPay - http://onpay.ru/ - ver.1.0<br>
@@ -19,3 +20,4 @@ Z-payment - делал для себя сам и т.к. данный плаги�
 Папки PayAnyWay, Payeer, Megakassa, FreeKassa, MyKassa, OnPay расположить в директории /engine/modules/billing/paysys/<br><br>
 <img src="https://4.downloader.disk.yandex.ru/disk/db11deb43d85a3e8c890ca27a1e7c505971e1a997829864676ccf39f5efb55f4/588645b4/OwXzhE8w4G9nYnlcEyYiT5anBiAckuJphApF9iZVyriEpByD10QDJz-mAxHWFNL2vxSGlzlG5jJ3myhuapsFIA%3D%3D?uid=0&filename=ftpbil.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&fsize=54615&hid=5e32f62e5fc30ae27b2b1377c57a3593&media_type=image&tknv=v2&etag=8f2bb72e40137edef6545841c3ad345e"><br><br>
 Что бы использовать модифицированный файл plugins.php необходимо заменить строку<br>'url_catalog' => "http://dle-billing.ru/engine/ajax/extras/plugins.php",<br>в файле config.php расположенный в деректории /engine/data/billing/ на 
+# Настройка
