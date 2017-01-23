@@ -1,4 +1,4 @@
-# DLE-Billing
+# Pay System DLE-Billing v.0.6
 Плагины платежных агрегаторов и систем для DLE-Billing v0.6<br><br>
 Free-Kassa - http://free-kassa.ru/ - ver.1.0<br>
 OnPay - http://onpay.ru/ - ver.1.0<br>
