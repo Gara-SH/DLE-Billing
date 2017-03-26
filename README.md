@@ -13,10 +13,10 @@ Z-payment - делал для себя сам и т.к. данный плаги�
 <a href="http://www.mykassa.org/page/cmsmodule" target="_blank">MyKassa</a>, <a href="http://www.free-kassa.ru/news.php?id=146" target="_blank">Free-Kassa</a>, <a href="http://onpaysolutions.ru/%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C-%D0%B4%D0%BB%D1%8F-dle-%D0%B1%D0%B0%D0%BB%D0%B0%D0%BD%D1%81-%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F/" target="_blank">OnPay</a><br>
 Плагины отсутсвующие на сайте платежного агрегатора и разработчика DLE-Billing<br>
 PayMaster, QIWI<br><br>
-<img src="http://www.gara-sh.rf.gd/paysis.png"><br>
+<img src="https://raw.githubusercontent.com/Gara-SH/DLE-Billing/master/help/images/paysis.png"><br>
 <h4>P.S. просьба при копировании матерьяла или выкладывании файлов указывать источник и для <b>САМЫХ УМНЫХ сразу же придупреждаю если увижу хоть на одном ресурсе свои модификации без ссылки на источник больше модифицировать файлы не буду или модификация будет за деньги. Уважайте чужой труд!!!</b></h4>
 <h2>Установка</h2>
 Папки PayAnyWay, Payeer, Megakassa, FreeKassa, MyKassa, OnPay расположить в директории /engine/modules/billing/paysys/<br><br>
-<img src="http://www.gara-sh.rf.gd/sisftp.png"><br><br>
+<img src="https://raw.githubusercontent.com/Gara-SH/DLE-Billing/master/help/images/sisftp.png"><br><br>
 Что бы использовать модифицированный файл plugins.php необходимо заменить строку<br>'url_catalog' => "http://dle-billing.ru/engine/ajax/extras/plugins.php",<br>в файле config.php расположенный в деректории /engine/data/billing/ на 'url_catalog' => "http://www.gara-sh.rf.gd/plugins.php",
 <h2>Настройка</h2>
