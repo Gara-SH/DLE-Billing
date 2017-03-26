@@ -18,5 +18,5 @@ PayMaster, QIWI<br><br>
 <h2>Установка</h2>
 Папки PayAnyWay, Payeer, Megakassa, FreeKassa, MyKassa, OnPay расположить в директории /engine/modules/billing/paysys/<br><br>
 <img src="https://raw.githubusercontent.com/Gara-SH/DLE-Billing/master/help/images/sisftp.png"><br>
-Что бы использовать модифицированный файл plugins.php необходимо заменить строку<br>'url_catalog' => "http://dle-billing.ru/engine/ajax/extras/plugins.php",<br>в файле config.php расположенный в деректории /engine/data/billing/ на<br>'url_catalog' => "http://www.gara-sh.rf.gd/plugins.php",
+Что бы использовать модифицированный файл plugins.php необходимо заменить строку<br>'url_catalog' => "http://dle-billing.ru/engine/ajax/extras/plugins.php",<br>в файле config.php расположенный в деректории /engine/data/billing/ на<br>'url_catalog' => "http://gara-sh.rf.gd/plugins.php",
 <h2>Настройка</h2>
